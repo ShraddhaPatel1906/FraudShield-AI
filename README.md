@@ -18,8 +18,6 @@ Users can register, log in, upload transactions, generate fraud risk scores, mon
 
 All Machine Learning experimentation, including EDA, preprocessing, training, testing, and SHAP analysis, is implemented in **one Jupyter Notebook**.
 
-> ⚠️ **Disclaimer:** This is an educational Machine Learning portfolio project using anonymized historical transactions. It is not validated for live banking or automated financial decisions.
-
 ---
 
 ## 🚀 Key Features
