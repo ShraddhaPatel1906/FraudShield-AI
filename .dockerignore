@@ -1,0 +1,14 @@
+.git
+.venv
+.env
+__pycache__
+*.pyc
+.ipynb_checkpoints
+.ipynb_checkpoints/
+data/*.csv
+artifacts/*.joblib
+artifacts/*.json
+*.zip
+
+data/*.csv
+*.ipynb

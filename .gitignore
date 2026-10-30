@@ -1,0 +1,13 @@
+# Never commit secrets, data, models or local Python state
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+data/*.csv
+artifacts/*.joblib
+artifacts/*.json
+artifacts/*.csv
+.DS_Store
